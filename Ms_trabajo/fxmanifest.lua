@@ -1,4 +1,4 @@
-description "trabajo simple de trabajo"
+description "trabajo simple"
 
 fx_version   'cerulean'
 game         'gta5'
